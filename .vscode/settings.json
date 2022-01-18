@@ -1,0 +1,4 @@
+{
+    "python.dataScience.changeDirOnImportExport": true,
+    "python.dataScience.alwaysScrollOnNewCell": true
+}
